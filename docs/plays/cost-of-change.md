@@ -1,4 +1,4 @@
-### Minimize the cost of change
+# Minimize the cost of change
 
 Your state government will exist longer than any piece of software. And that means one day, your exciting new software system could someday become your hard-to-use, old software system.
 
@@ -8,7 +8,7 @@ Technology changes, government policies change, regulations change, laws change,
 
 So rather than acquiring one giant piece of proprietary software, insist that your vendors default to practices like using open-source software and service-oriented architecture. That way, you can optimize for reducing the cost of updating and changing the system from the beginning.
 
-#### Checklist
+## Checklist
 
 - [ ] Systems, whether cloud-native or being moved to the cloud, will use service-oriented architecture (SOA) that is vendor- and product-agnostic
 - [ ] To ensure data portability, files will be stored in open, non-patented formats supported by multiple vendors
@@ -17,7 +17,7 @@ So rather than acquiring one giant piece of proprietary software, insist that yo
 - [ ] Government will own all vendor work products
 - [ ] If using COTS components, the vendor will provide a path to leave for a competitor — both contractually and technologically — with a cost-effective way to export all stored data
 
-#### Key questions
+## Key questions
 
 - What is the plan for reducing the time and cost of future updates to the system due to technology, policy, or vendor changes?
 - How much will it cost to change the system to reflect needed technology or policy changes?

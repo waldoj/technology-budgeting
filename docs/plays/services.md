@@ -1,4 +1,4 @@
-### Procure services, not software
+# Procure services, not software
 
 Don’t think of procuring custom software as buying a _thing._ Instead, think of it as buying a _service:_ the service of a team of developers and designers performing work as prioritized by the product owner. This reframing leads to a completely different approach — a much simpler approach — to the RFP and to the contract, and is an important distinction for contracting officers.
 
@@ -10,7 +10,7 @@ To ensure vendors deliver work that meets the needed technical specifications, i
 
 Historically, there has been pressure to only use firm fixed price contracts, on the assumption that this reduces risk. However, if you are in a position to constantly measure software quality, then a time and materials contract — with a ceiling on total spending — allows for more flexibility for the software development team. A time and materials contract also allows for much easier escape clauses if the direction of the work changes or the vendor team is not producing quality software. If a vendor team’s work is inadequate, or their skills prove inappropriate, then no further work need be assigned to that vendor (effectively terminating the contract), and the vendor can be replaced.
 
-#### Checklist
+## Checklist
 
 - [ ] The project has a dedicated, empowered product owner who is an employee of the agency — not a contractor, and not an employee of the state’s IT agency — whose job it is to prioritize work for the development team
 - [ ] An agency contracting officer has embraced this project, and is enthusiastic about procuring software in new ways
@@ -21,9 +21,18 @@ Historically, there has been pressure to only use firm fixed price contracts, on
 - [ ] A time and materials contract (with a cap) will be used
 - [ ] The simplest available procurement vehicle that provides access to the targeted vendors will be used
 
-#### Key questions
+## Key questions
 
 - Is the product owner empowered to rapidly make authoritative decisions on behalf of the agency?
 - Is the product owner prepared to spend most of their work hours fulfilling the requirements of this new role?
 - Is agency leadership prepared to have product decisions led by identified user needs, based on direct conversations with those users, rather than leadership’s personal preferences?
 - Does the RFP establish clear requirements about the regular delivery of working code, documentation, testing, and ownership of all work products remaining with the state?
+
+<hr>
+<small>
+
+#### Footnotes
+
+<p class="footnote" id="footnote-8">8. For an example RFP, see the <a href="https://github.com/ustaxcourt/case-management-rfq">U.S. Tax Court’s 2018 EF-CMS RFQ</a>, which includes a QASP, under the <a href="https://github.com/ustaxcourt/case-management-rfq/blob/master/02_SOW.md#deliverables-and-performance-standards">"Deliverables and Performance Standards" section</a>. <a href="#reference-8">↩︎</a></p>
+
+</small>

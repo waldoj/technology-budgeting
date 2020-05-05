@@ -1,4 +1,4 @@
-### Budget for software as an operational expense
+# Budget for software as an operational expense
 
 Unlike bridges or other capital infrastructure projects, custom software is never "done," so it’s important to plan for it to be modified continuously. That way it can serve today’s agency needs, not yesterday’s.
 
@@ -11,7 +11,7 @@ Rule of thumb: a "scrum team" of 5–9 developers costs
 
 Ultimately, this can provide agencies with a predictable source of funding for software projects — replacing unpredictable capital expenditures — while simultaneously providing the legislature with a predictable annual cost for all agency software projects.
 
-#### Checklist
+## Checklist
 
 - [ ] The agency recognizes that software must be improved continuously as long as it is in use, because "maintenance" is functionally the same as building software in the first place
 - [ ] The agency plans to procure agile development services
@@ -19,7 +19,7 @@ Ultimately, this can provide agencies with a predictable source of funding for s
 - [ ] This approach has been coordinated with the governor’s office, the budget office, agencies, and the state IT agency — this is likely a radical change that will require trust and cooperation between all parties
 - [ ] If an agency’s request is at a high risk of failure, you will allocate only a few million dollars in the first year, increasing funding as the project delivers value
 
-#### Key questions
+## Key questions
 
 - Is the requested funding going to be spent within a single budget period?
 - Perhaps \$50 million is being requested, but what value can be delivered to end users with \$2 million? And the next \$2 million? And so on?

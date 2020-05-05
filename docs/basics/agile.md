@@ -1,4 +1,4 @@
-### Agile software development
+# Agile software development
 
 Detailed, long-term plans for major, custom software projects have long been the norm in government. But, as software engineers and policy makers have learned over the years, those plans are never correct. They need a lot of costly modifications, leading to requests for more money to pay for "change orders". It’s time for government executives and budget officials to stop asking for detailed long-term plans, and instead to budget for software projects in a new way.
 
@@ -19,3 +19,14 @@ The vendor is paid for their employees’ time, not for a software system. Every
 By coupling agile with user-centered design, a development team can constantly iterate toward solving the needs of end users in ways that would have been impossible to learn about up front.
 
 Earlier this year the U.S. Department of Defense’s Defense Innovation Board released its Software Acquisition and Practices (SWAP) Study including a concept paper on "[Detecting Agile BS](https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF)," which provides a useful synopsis of agile practices, and a series of questions to help non-technical leaders understand whether those practices are being followed.
+
+<hr>
+<small>
+
+#### Footnotes
+
+<p class="footnote" id="footnote-4">4. A user story reads in form of "as a [role], I need [this thing], so I can [accomplish this]." For example, "as a social worker, I need case notes to be cached on my phone, so that I can access case notes in areas without mobile phone service." All technical work is done in the service of addressing a user story. <a href="#reference-4">↩︎</a></p>
+
+<p class="footnote" id="footnote-5">5. Stack Overflow’s 2018 survey of 57,075 developers found that <a href="https://insights.stackoverflow.com/survey/2018#work-_-which-methodologies-do-developers-use">85% of professional software developers use agile</a>. And <a href="https://softwaretestinggenius.com/docs/4aa5-7619.pdf">a 2015 study by Hewlett Packard</a> found that "the vast majority of organizations [they] surveyed reported that today they primarily use Agile methods." The process described here is not extraordinary in any way. <a href="#reference-5">↩︎</a></p>
+
+</small>

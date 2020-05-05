@@ -1,4 +1,4 @@
-### Limit contract sizes
+# Limit contract sizes
 
 Using a single vendor over a long period of time, or for a large number of teams, may feel more comfortable, but it inevitably leads to vendor lock-in. Breaking up projects into several small contracts incentivizes vendors to build a sustainable software ecosystem, instead of a monolith, and makes each contract small enough that the odds of success increase markedly.<sup id="reference-11"><a href="#footnote-11">11</a></sup>
 
@@ -8,14 +8,23 @@ In addition to preventing lock-in, there’s another benefit to using smaller co
 
 As the number of people who work on a project increases, so does the amount of time that all of those people have to spend coordinating with each other. The solution to this is to have them work in parallel, which is possible when building with loosely coupled parts. Having more than one vendor team working on your project also provides you with more competitive options if you need to change vendors.
 
-#### Checklist
+## Checklist
 
 - [ ] If the project will require multiple contracts, the scope of the first contract has been identified, and there is a general idea of what some other contracts may be comprised of
 - [ ] If there will be more than one development team, service-oriented architecture (SOA) will be employed
 - [ ] When possible, contracts will be sized within the simplified procurement threshold so they can be awarded quickly and easily
 - [ ] The identified first project has relatively low technical complexity, low political risk, and high end-user value, so that teams can start practicing working this way while experimenting and learning in a relatively low-risk environment
 
-#### Key questions
+## Key questions
 
 - Have the relevant contracting officers read this handbook?
 - Do the contracting officers understand that they’re not being asked to do all of the work that goes into a \$50 million contract? Do they understand that \$2 million contracts are far easier to award and that, under agile, they’ll also be much easier to manage?
+
+<hr>
+<small>
+
+#### Footnotes
+
+<p class="footnote" id="footnote-11">11. In The Standish Group’s 2014 CHAOS Report, based on a survey of 25,000 software projects, they found that <a href="https://www.standishgroup.com/sample_research_files/CHAOSReport2014.pdf#page=3">software projects’ outcomes get worse as more money is spent</a>. Limiting the spending on each contract segments the project into smaller components, making each component — and the entire project — more likely to succeed. <a href="#reference-11">↩︎</a></p>
+
+</small>

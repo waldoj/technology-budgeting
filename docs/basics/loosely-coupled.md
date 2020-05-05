@@ -1,4 +1,4 @@
-### Building with loosely coupled parts
+# Building with loosely coupled parts
 
 Large, complex software projects tend to collapse under the weight of administration. No single developer can understand the entire system that they’re contributing to, yet each new member added to a project team increases the complexity of the entire team’s interactions, necessitating new supervisory roles like “software architects,” with whom developers must check before doing any work. The contributors need to coordinate carefully to avoid conflict between their efforts. As a team grows, they’re forced to spend increasing amounts of time managing the project, and decreasing amounts of time actually doing the work.
 

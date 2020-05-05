@@ -1,4 +1,4 @@
-### Require demos, not memos
+# Require demos, not memos
 
 Historically, progress in software development projects has been measured by comparing the work that has been done to the schedule of work to be done that was established at the outset. This is done by producing artifacts like Gantt charts and lists of completed tasks. But this doesn’t work — agile software development is premised on the idea that this doesn’t work. Modern software development teams have never heard of "CMMI" or "Earned Value Management Systems," and won’t bid on work that includes these requirements.
 
@@ -8,7 +8,7 @@ An important part of ensuring that progress isn’t illusory is for the contract
 
 The QASP does not require producing any artifacts explicitly for the purpose of monitoring the work — the way to monitor the work is by _seeing if it actually works._ This is a very different way to monitor the progress of a technology project. It has the added benefit of being a more objective, observable, functional test than requiring subjective or legal interpretations about whether the work satisfies a long series of system requirements.
 
-#### Checklist
+## Checklist
 
 - [ ] An empowered, dedicated government employee will serve as the product owner
 - [ ] There will be no planning or reporting requirements that run counter to agile (i.e., there are no dates by which specific tasks are to be completed and no specifications of exact functionality that will be required — whether in the RFP, the acquisition plan, or legislation)
@@ -16,7 +16,7 @@ The QASP does not require producing any artifacts explicitly for the purpose of 
 - [ ] People providing oversight, above the level of the government product owner, are willing to primarily receive "reports" in the form of demonstrations of functioning software and burn down charts, combined with a review of user stories that have been completed and those that remain to be completed
 - [ ] There is an identified person within the agency who is prepared to provide repeated explanations of progress to each level of oversight, because artifacts of measuring progress on an agile project are unfamiliar to people accustomed to waterfall projects
 
-#### Key questions
+## Key questions
 
 - Is it feasible to provide the end-to-end support for such a radically different approach to measuring progress, from the agency to the governor’s office to the legislature? Is there anybody with the power to dig in their heels and demand a Gantt chart, thus potentially making agile methodology non-viable?
 - Whose job will it be to report progress up and out of the agency, e.g., to a legislative oversight committee?

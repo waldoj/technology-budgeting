@@ -1,4 +1,4 @@
-### User-centered design
+# User-centered design
 
 All software development should be centered on the needs of the software’s actual end users, the specific people who are expected to use it. These "end users" may be applicants for benefits, call center workers, case workers, other state employees or any of innumerable other groups.
 

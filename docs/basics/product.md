@@ -1,4 +1,4 @@
-### Product ownership
+# Product ownership
 
 Taking back ownership of government software projects requires government teams to focus on outcomes, not outputs. This means shifting from some of the traditional Program Management Body of Knowledge practices to a product-oriented mindset.
 
