@@ -1,8 +1,8 @@
 site_name: De-risking custom technology projects
 site_url: https://how-to.usopendata.org/
-site_description: A playbook for state grantee budgeting and oversight
+site_description: A playbook for state budgeting and oversight
 site_author: Robin Carnahan, Randy Hart, Waldo Jaquith
-copyright: Public domain
+copyright: Published under a Creative Commons Zero license. No rights reserved.
 
 repo_url: https://github.com/waldoj/technology-budgeting/
 docs_dir: docs/
