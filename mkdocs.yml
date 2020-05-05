@@ -7,7 +7,7 @@ copyright: Public domain
 repo_url: https://github.com/waldoj/technology-budgeting/
 docs_dir: .
 
-pages:
+nav:
 - Introduction: index.md
 - Basic principles of modern software design:
   - Introduction: basics/index.md
