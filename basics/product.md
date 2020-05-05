@@ -1,0 +1,15 @@
+### Product ownership
+
+Taking back ownership of government software projects requires government teams to focus on outcomes, not outputs. This means shifting from some of the traditional Program Management Body of Knowledge practices to a product-oriented mindset.
+
+The word "product" may sound unusual in a government context, but it’s an important bit of tech lingo. "Product" is a shorthand for whatever the thing is that’s being created: a website, an iOS app, an intranet application, etc. Although the word makes more sense for a business that’s selling a literal product, everything else about the concept translates to government perfectly.
+
+The product owner is the key person for any software project, and _must_ be a government employee. The product owner works with users, stakeholders, technologists, and the vendor to envision the direction for the product, with an eye toward delivering value to end users as quickly as possible. They iteratively prioritize and define the work for the product team, as part of the agile process. They measure progress against clear [performance indicators](https://www.atlassian.com/agile/project-management/metrics), and communicate with stakeholders and the cross-functional team that is building the product.
+
+The product owner doesn’t need to be a strong technologist. Instead, they should know the users of the system, the business (for example, Medicaid insurance or DMV services), and policy constraints.
+
+A strong product owner ensures that the vision is clear, the strategy is clear, there is space for teams building the software to learn, and that they are building or buying the right thing to incrementally show value to users. They prioritize ruthlessly to ensure that the product serves user needs, and that activity and attention is focused on the highest-priority needs. They are empowered by their agency to represent stakeholders in making rapid product decisions without the need for many layers of approval. This positioning ensures that the product owner understands everything that the development team is doing and that the needs of government are fully represented.
+
+This is different than typical project management in government IT. The product owner won’t have Gantt charts or a detailed 5-year plan. But they will have a vision for the outcomes that will be delivered to users, and have a path to executing. Their most important job is to understand what the development team is doing and to make sure it strikes the right balance between the needs of government and the needs of end users.
+
+It’s possible for a first-time product owner to learn as they go, but it’s better to be trained in advance. There are many sources of agile and scrum training, some specifically for product owners. These range from YouTube video series to in-person, multi-day classes to become a "Certified Scrum Product Owner." The more important the project, the more formal and rigorous that the product owner’s training should be.
