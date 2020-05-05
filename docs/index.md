@@ -36,3 +36,16 @@ As government leaders, we must be good stewards of public money by demanding eas
 We work for [18F](https://18f.gov/), part of the Technology Transformation Services team at the [General Services Administration](https://www.gsa.gov/) (GSA). Collectively, the three of us have many years of experience in government procurement, software development, and state-level elective office.
 
 In work funded by GSA’s [10x](https://10x.gsa.gov/), we spent a year exploring how to drive down the cost of federal technology grants to states while simultaneously improving outcomes. Federal grants provide 31% of state budgets, and as a major investor in major state software systems, the federal government is keenly interested in ensuring a good return on that investment.<sup id="reference-3"><a href="#footnote-3">3</a></sup> To accomplish that, we met with state legislators, legislative fiscal staff, state budget officers, contracting officers, and gubernatorial policy advisors. This handbook came of learning from and teaching hundreds of people from dozens of states. We’re grateful to the many people who contributed their time and knowledge throughout that process.
+
+
+<hr>
+<small>
+
+#### Footnotes
+<p class="footnote" id="footnote-1">1. Projects valued at $6M or greater, in Europe and the United States, that were completed satisfactorily, on time, and within budget. From The Standish Group’s "<a href="https://www.standishgroup.com/sample_research_files/Haze4.pdf">Haze</a>," based on their CHAOS database. <a href="#reference-1">↩︎</a></p>
+
+<p class="footnote" id="footnote-2">2. Of the $90 billion in federal IT spending in FY2019, 80% is allocated for maintenance of legacy software, according to the GAO’s June 2019 report, "<a href="https://www.gao.gov/products/GAO-19-471">Agencies Need to Develop Modernization Plans for Critical Legacy Systems</a>." They write that inadequately-maintained legacy software leads to security risks, unmet mission needs, staffing issues, and increased costs. <a href="#reference-2">↩︎</a></p>
+
+<p class="footnote" id="footnote-3">3. The National Association of State Budget Officers’ “2018 State Expenditure Report” finds that federal grants provide an average of 31.2% of each state’s budget, climbing by 5.7% in FY2018. <a href="#reference-3">↩︎</a></p>
+
+</small>
