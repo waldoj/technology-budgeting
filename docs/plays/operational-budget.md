@@ -23,4 +23,4 @@ Ultimately, this can provide agencies with a predictable source of funding for s
 
 - Is the requested funding going to be spent within a single budget period?
 - Perhaps \$50 million is being requested, but what value can be delivered to end users with \$2 million? And the next \$2 million? And so on?
-- Is a federal agency funding the work amenable to taking an operational approach to the funding?
+- If this project is being funded using federal dollars, is the federal agency amenable to taking an operational approach to the funding?

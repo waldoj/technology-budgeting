@@ -4,7 +4,7 @@ Your state government will exist longer than any piece of software. And that mea
 
 As good as software may be today, eventually you’ll need to switch to a new system – whether that’s in whole or in part. And acquiring software as a completed monolith guarantees it will gradually become unable to support an agency’s needs.
 
-Technology changes, government policies change, regulations change, laws change, federal grant requirements change, and leadership’s priorities change — any project that is planned in great detail up front will be unable to adapt to those changes, and will be at significant risk of failure, significant cost and deadline overruns, or costly "change orders."
+Technology changes, government policies change, regulations change, laws change, grant requirements change, and leadership’s priorities change — any project that is planned in great detail up front will be unable to adapt to those changes, and will be at significant risk of failure, significant cost and deadline overruns, or costly "change orders."
 
 So rather than acquiring one giant piece of proprietary software, insist that your vendors default to practices like using open-source software and service-oriented architecture. That way, you can optimize for reducing the cost of updating and changing the system from the beginning.
 

@@ -1,6 +1,6 @@
 # De-risking custom technology projects
 
-## A handbook for state grantee budgeting and oversight
+## A handbook for state budgeting and oversight
 
 August 5, 2019
 
@@ -10,7 +10,7 @@ By Robin Carnahan, [Randy Hart](mailto:randy.hart@gsa.gov), and Waldo Jaquith
 
 ## Introduction
 
-Only 13% of large government software projects are successful.<sup id="reference-1"><a href="#footnote-1">1</a></sup> State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes. Every year, the federal government matches billions of dollars in funding to state and local governments to maintain and modernize IT systems used to implement federal programs such as Medicaid, child welfare benefits, housing, and unemployment insurance. Efforts to modernize those legacy systems fail at an alarmingly high rate and at great cost to the federal budget.
+Only 13% of large government software projects are successful.<sup id="reference-1"><a href="#footnote-1">1</a></sup> State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes.
 
 State governments are increasingly reliant on modern software and hardware to implement federal programs and deliver essential services to the public, and the success of any major policy initiative depends on the success of the underlying software infrastructure. Government agencies all confront similar challenges, facing budget and staffing constraints while struggling to modernize legacy technology systems that are out-of-date, inflexible, expensive, and ineffective.<sup id="reference-2"><a href="#footnote-2">2</a></sup> Government officials and agencies often rely on the same legacy processes that led to problems in the first place.
 
@@ -35,7 +35,7 @@ As government leaders, we must be good stewards of public money by demanding eas
 
 We work for [18F](https://18f.gov/), part of the Technology Transformation Services team at the [General Services Administration](https://www.gsa.gov/) (GSA). Collectively, the three of us have many years of experience in government procurement, software development, and state-level elective office.
 
-In work funded by GSA’s [10x](https://10x.gsa.gov/), we spent a year exploring how to drive down the cost of federal technology grants to states while simultaneously improving outcomes. Federal grants provide 31% of state budgets, and as a major investor in major state software systems, the federal government is keenly interested in ensuring a good return on that investment.<sup id="reference-3"><a href="#footnote-3">3</a></sup> To accomplish that, we met with state legislators, legislative fiscal staff, state budget officers, contracting officers, and gubernatorial policy advisors. This handbook came of learning from and teaching hundreds of people from dozens of states. We’re grateful to the many people who contributed their time and knowledge throughout that process.
+In work funded by GSA’s [10x](https://10x.gsa.gov/), we spent a year meeting with state legislators, legislative fiscal staff, state budget officers, contracting officers, and gubernatorial policy advisors. This handbook came of learning from and teaching hundreds of people from dozens of states. We’re grateful to the many people who contributed their time and knowledge throughout that process.
 
 
 <hr>

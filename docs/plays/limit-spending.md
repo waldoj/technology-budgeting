@@ -9,7 +9,7 @@ The greater the amount of money spent on a software project, the greater the odd
 ## Key questions
 
 - If the project "requires" \$20 million in funding, what value can be delivered to end users with \$10 million? Or \$2 million? (If the answer is "none," then this is a project doomed to fail)
-- When this spending is matched by federal dollars — especially at a highly-leveraged rate, like the 9:1 match provided by the Centers for Medicare &amp; Medicaid Services for Medicaid Management Information Systems — is anybody going to get in trouble for leaving money on the table?
+- If this spending is matched by federal dollars — especially at a highly-leveraged rate, like the 9:1 match provided by the Centers for Medicare &amp; Medicaid Services for Medicaid Management Information Systems — is anybody going to get in trouble for leaving money on the table?
 - Is there somebody whose performance is measured by how much grant funding they raise and who has an incentive to demand that \$100 million be spent, instead of \$10 million?
 
 <hr>
