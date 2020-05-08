@@ -8,6 +8,9 @@ By Robin Carnahan, [Randy Hart](mailto:randy.hart@gsa.gov), and Waldo Jaquith
 
 18F, Technology Transformation Service, General Services Administration
 
+
+_Note: This is a lightly updated version of [the original document](https://github.com/18F/technology-budgeting/blob/master/handbook.md), which was created by 18F._
+
 ## Introduction
 
 Only 13% of large government software projects are successful.<sup id="reference-1"><a href="#footnote-1">1</a></sup> State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes.
