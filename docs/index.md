@@ -1,6 +1,6 @@
 # De-risking custom technology projects
 
-## A handbook for state budgeting and oversight
+## A playbook for state budgeting and oversight
 
 August 5, 2019
 
@@ -19,9 +19,9 @@ State governments are increasingly reliant on modern software and hardware to im
 
 The public deserves a government that provides the same world-class technology they get from the commercial marketplace. Trust in government depends on it.
 
-This handbook is designed for executives, budget specialists, legislators, and other "non-technical" decision-makers who fund or oversee state government technology projects. It can help you set these projects up for success by asking the right questions, identifying the right outcomes, and equally important, empowering you with a basic knowledge of the fundamental principles of modern software design.
+This playbook is designed for executives, budget specialists, legislators, and other "non-technical" decision-makers who fund or oversee state government technology projects. It can help you set these projects up for success by asking the right questions, identifying the right outcomes, and equally important, empowering you with a basic knowledge of the fundamental principles of modern software design.
 
-This handbook also gives you the tools you need to start tackling related problems like:
+This playbook also gives you the tools you need to start tackling related problems like:
 
 - The need to use, maintain, and modernize legacy systems simultaneously
 - Lock-in from legacy commercial arrangements
@@ -30,15 +30,15 @@ This handbook also gives you the tools you need to start tackling related proble
 - Security threats
 - Hiring, staffing, and other resource constraints
 
-This is written specifically for procurement of custom software, but it’s important to recognize that commercial off-the-shelf software (COTS) is often custom and Software as a Service (SaaS) often requires custom code. Once any customization is made, the bulk of this advice in this handbook applies to these commercial offerings. (See "[Beware the customized commercial software trap](#beware-the-customized-commercial-software-trap)" for details.)
+This is written specifically for procurement of custom software, but it’s important to recognize that commercial off-the-shelf software (COTS) is often custom and Software as a Service (SaaS) often requires custom code. Once any customization is made, the bulk of this advice in this playbook applies to these commercial offerings. (See "[Beware the customized commercial software trap](#beware-the-customized-commercial-software-trap)" for details.)
 
-As government leaders, we must be good stewards of public money by demanding easy-to-use, cost-effective, sustainable digital tools for use by the public and civil servants. This handbook will help you do just that.
+As government leaders, we must be good stewards of public money by demanding easy-to-use, cost-effective, sustainable digital tools for use by the public and civil servants. This playbook will help you do just that.
 
 ### About the authors
 
 We work for [18F](https://18f.gov/), part of the Technology Transformation Services team at the [General Services Administration](https://www.gsa.gov/) (GSA). Collectively, the three of us have many years of experience in government procurement, software development, and state-level elective office.
 
-In work funded by GSA’s [10x](https://10x.gsa.gov/), we spent a year meeting with state legislators, legislative fiscal staff, state budget officers, contracting officers, and gubernatorial policy advisors. This handbook came of learning from and teaching hundreds of people from dozens of states. We’re grateful to the many people who contributed their time and knowledge throughout that process.
+In work funded by GSA’s [10x](https://10x.gsa.gov/), we spent a year meeting with state legislators, legislative fiscal staff, state budget officers, contracting officers, and gubernatorial policy advisors. This playbook came of learning from and teaching hundreds of people from dozens of states. We’re grateful to the many people who contributed their time and knowledge throughout that process.
 
 
 <hr>
