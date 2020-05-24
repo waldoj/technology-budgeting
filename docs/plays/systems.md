@@ -11,5 +11,5 @@ Don’t replace the old legacy system with a new legacy system. Insist on loosel
 
 ## Key questions
 
-- Is there a single point of failure that can bring the whole system down? (If so, that’s probably monolith, not a system.)
+- Is there a single point of failure that can bring the whole system down? (If so, that’s probably a monolith, not a system.)
 - If one vendor’s contract needs to be terminated for non-performance, can the others continue to work without interruption?
