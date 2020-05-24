@@ -25,7 +25,7 @@ For larger projects, you’ll need to contract for a development team indefinite
 ## Key questions
 
 - When a vendor delivers code at the end of every sprint, which _specific_ government employee will inspect that code to ensure quality?
-- If an agency says they need \$10 million to complete a specific software project, which budget office employee is equipped to know whether that’s an appropriate price? Which _specific_ legislative budget committee employee is equipped to know whether that’s an appropriate price?
+- If an agency says they need $10 million to complete a specific software project, which budget office employee is equipped to know whether that’s an appropriate price? Which _specific_ legislative budget committee employee is equipped to know whether that’s an appropriate price?
 - When the procurement is complete, who will maintain the software? Does the agency employ people who know how to maintain it? Will they be brought into the development process so that they can learn about it as it’s built and help ensure it’s something they’re capable of supporting?
 
 <hr>

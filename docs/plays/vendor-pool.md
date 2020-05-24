@@ -4,7 +4,7 @@ Your existing vendors are unlikely to employ the modern software development pra
 
 If it is important to get bids from in-state vendors, then know that odds are good that there are many qualified small businesses that can deliver agile development programs in your state.<sup id="reference-12"><a href="#footnote-12">12</a></sup> However, if you want to drive down the price of bids, then it’s important to consider working with remote or distributed (rather than on-site) vendor teams.
 
-In places like California, Washington, New York, Virginia, and Maryland, the cost of an agile team can be easily twice the cost of a team in the Midwest or the northern plains — a difference of over \$1 million each year with no difference in quality. That’s a price point at which it’s worth rethinking how important it is that the team be local, or even in-state.<sup id="reference-13"><a href="#footnote-13">13</a></sup> Encouraging distributed vendor teams also gives you access to a wider talent pool, so it’s smart to embrace distributed working best practices to engage with development teams<sup id="reference-14"><a href="#footnote-14">14</a></sup> and only require on-site visits when necessary (such as for user research).
+In places like California, Washington, New York, Virginia, and Maryland, the cost of an agile team can be easily twice the cost of a team in the Midwest or the northern plains — a difference of over $1 million each year with no difference in quality. That’s a price point at which it’s worth rethinking how important it is that the team be local, or even in-state.<sup id="reference-13"><a href="#footnote-13">13</a></sup> Encouraging distributed vendor teams also gives you access to a wider talent pool, so it’s smart to embrace distributed working best practices to engage with development teams<sup id="reference-14"><a href="#footnote-14">14</a></sup> and only require on-site visits when necessary (such as for user research).
 
 How do you find those qualified small businesses? There are a number of cities and states that have created a pool of agile software vendors. For example, [California’s Department of Technology has a vendor pool](https://github.com/CDTProcurement/adpq) that adds new companies on a rolling basis. Seek out and draw from these vendor pools, and include some of these companies in future RFP processes. Also, ask around among colleagues in other state agencies to see if they can recommend any vendors to include. Finally, try thinking like a software developer looking for a job, and check out sites that are well-known for posting job opportunities and professional networking, to identify agile vendors in your state. This entire process only takes a few hours.
 
@@ -23,7 +23,7 @@ Although the procurement team will be tempted to seek out vendors who have previ
 ## Key questions
 
 - Are there any benefits — political or otherwise — to awarding contracts to in-state vendors, or even requirements to do so? Might that limit the degree to which you can expand your vendor pool?
-- Is \$1 million per year savings for each scrum team sufficient to overcome any objections to remote teams?
+- Is $1 million per year savings for each scrum team sufficient to overcome any objections to remote teams?
 - Has lightweight market research been done to know what vendors will be targeted with the RFP, rather than only issuing an RFI and hoping for the best?
 
 <hr>
