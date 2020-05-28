@@ -1,6 +1,6 @@
 # Ask technical questions of agencies
 
-Budget requests for custom software often feature non-technical people making a technical proposal to other non-technical people. This process doesn’t lend itself to asking key questions, such as many of those found throughout this handbook. It is important to ask all of those difficult technical questions, and to insist on getting the right answers ([see Appendix A for sample questions and answers](#appendix-a-questions-to-ask)).
+Budget requests for custom software often feature non-technical people making a technical proposal to other non-technical people. This process doesn’t lend itself to asking key questions, such as many of those found throughout this handbook. It is important to ask all of those difficult technical questions, and to insist on getting the right answers ([see Appendix A for sample questions and answers](/appendix-a/)).
 
 It is no kindness to fund a project that is going to fail. If the agency doesn’t know exactly what they want to buy, they’re not going to get it.
 
