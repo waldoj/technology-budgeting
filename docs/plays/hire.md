@@ -18,9 +18,9 @@ For larger projects, you’ll need to contract for a development team indefinite
 
 ## Checklist
 
-- [ ] There are one or more budget-office employees with experience developing complex, custom software in an agile environment who will assist in evaluating custom-software budget requests
-- [ ] If there are no budget-office employees with relevant experience, the legislature has a contract with a non-conflicted vendor — one with no other contracts with the state and no ties or partnerships with any COTS products
-- [ ] The agency has identified a specific government employee who will be providing technical leadership for the project, along with evidence of their experience developing custom software in an agile environment
+- There are one or more budget-office employees with experience developing complex, custom software in an agile environment who will assist in evaluating custom-software budget requests
+- If there are no budget-office employees with relevant experience, the legislature has a contract with a non-conflicted vendor — one with no other contracts with the state and no ties or partnerships with any COTS products
+- The agency has identified a specific government employee who will be providing technical leadership for the project, along with evidence of their experience developing custom software in an agile environment
 
 ## Key questions
 

@@ -4,10 +4,10 @@ Don’t replace the old legacy system with a new legacy system. Insist on loosel
 
 ## Checklist
 
-- [ ] Each contract will be written to deliver value to end users — they’re not for "maintaining servers" or "setting up a database," but for "adding a web-based permit application system" or "simplifying the intake process"
-- [ ] There will be no single "enterprise architect," because the architecture will emerge iteratively throughout the agile process
-- [ ] If the project is large enough that it will include multiple scrum teams working simultaneously, there is no expectation that all members of all teams will ever be in meetings together
-- [ ] The RFP will specify the use of service-oriented architecture for each component
+- Each contract will be written to deliver value to end users — they’re not for "maintaining servers" or "setting up a database," but for "adding a web-based permit application system" or "simplifying the intake process"
+- There will be no single "enterprise architect," because the architecture will emerge iteratively throughout the agile process
+- If the project is large enough that it will include multiple scrum teams working simultaneously, there is no expectation that all members of all teams will ever be in meetings together
+- The RFP will specify the use of service-oriented architecture for each component
 
 ## Key questions
 

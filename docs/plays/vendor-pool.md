@@ -12,13 +12,13 @@ Although the procurement team will be tempted to seek out vendors who have previ
 
 ## Checklist
 
-- [ ] The RFP will be streamlined (no more than 20 pages), and comprehensible by software developers who do not normally work with government
-- [ ] The acquisition plan includes reaching out to small vendors to encourage them to bid
-- [ ] The RFP will not be hidden on a registration-required procurement website, but published openly on the web so the vendor community can share it
-- [ ] The RFP will require that vendors name their key personnel in their proposals — no more than three people — such as the lead developer or the lead designer
-- [ ] The acquisition plan includes interviewing the finalists about their proposed approach, questioning the named key personnel, _not_ the vendor’s sales staff
-- [ ] Vendor employees will not be required to work on-site at a government facility
-- [ ] Vendor teams and the government product owner will be permitted to use a desktop-based video call service (e.g. Zoom, Google Meet, etc.), a real-time chat tool (e.g. Slack, Microsoft Teams), and a public, Git-based version-control system (e.g. GitHub, Bitbucket).
+- The RFP will be streamlined (no more than 20 pages), and comprehensible by software developers who do not normally work with government
+- The acquisition plan includes reaching out to small vendors to encourage them to bid
+- The RFP will not be hidden on a registration-required procurement website, but published openly on the web so the vendor community can share it
+- The RFP will require that vendors name their key personnel in their proposals — no more than three people — such as the lead developer or the lead designer
+- The acquisition plan includes interviewing the finalists about their proposed approach, questioning the named key personnel, _not_ the vendor’s sales staff
+- Vendor employees will not be required to work on-site at a government facility
+- Vendor teams and the government product owner will be permitted to use a desktop-based video call service (e.g. Zoom, Google Meet, etc.), a real-time chat tool (e.g. Slack, Microsoft Teams), and a public, Git-based version-control system (e.g. GitHub, Bitbucket).
 
 ## Key questions
 

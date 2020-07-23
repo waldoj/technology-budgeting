@@ -10,12 +10,12 @@ So rather than acquiring one giant piece of proprietary software, insist that yo
 
 ## Checklist
 
-- [ ] Systems, whether cloud-native or being moved to the cloud, will use service-oriented architecture (SOA) that is vendor- and product-agnostic
-- [ ] To ensure data portability, files will be stored in open, non-patented formats supported by multiple vendors
-- [ ] APIs will use open schemas
-- [ ] To avoid product lock-in, open source software will be used instead of commercial software whenever possible
-- [ ] Government will own all vendor work products
-- [ ] If using COTS components, the vendor will provide a path to leave for a competitor — both contractually and technologically — with a cost-effective way to export all stored data
+- Systems, whether cloud-native or being moved to the cloud, will use service-oriented architecture (SOA) that is vendor- and product-agnostic
+- To ensure data portability, files will be stored in open, non-patented formats supported by multiple vendors
+- APIs will use open schemas
+- To avoid product lock-in, open source software will be used instead of commercial software whenever possible
+- Government will own all vendor work products
+- If using COTS components, the vendor will provide a path to leave for a competitor — both contractually and technologically — with a cost-effective way to export all stored data
 
 ## Key questions
 

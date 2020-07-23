@@ -13,11 +13,11 @@ Ultimately, this can provide agencies with a predictable source of funding for s
 
 ## Checklist
 
-- [ ] The agency recognizes that software must be improved continuously as long as it is in use, because "maintenance" is functionally the same as building software in the first place
-- [ ] The agency plans to procure agile development services
-- [ ] You have talked with the requesting agency to determine if they would prefer to receive funding over years, as a predictable stream of operational funding, instead of as a lump sum
-- [ ] This approach has been coordinated with the governor’s office, the budget office, agencies, and the state IT agency — this is likely a radical change that will require trust and cooperation between all parties
-- [ ] If an agency’s request is at a high risk of failure, you will allocate only a few million dollars in the first year, increasing funding as the project delivers value
+- The agency recognizes that software must be improved continuously as long as it is in use, because "maintenance" is functionally the same as building software in the first place
+- The agency plans to procure agile development services
+- You have talked with the requesting agency to determine if they would prefer to receive funding over years, as a predictable stream of operational funding, instead of as a lump sum
+- This approach has been coordinated with the governor’s office, the budget office, agencies, and the state IT agency — this is likely a radical change that will require trust and cooperation between all parties
+- If an agency’s request is at a high risk of failure, you will allocate only a few million dollars in the first year, increasing funding as the project delivers value
 
 ## Key questions
 

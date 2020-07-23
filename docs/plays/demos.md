@@ -10,11 +10,11 @@ The QASP does not require producing any artifacts explicitly for the purpose of 
 
 ## Checklist
 
-- [ ] An empowered, dedicated government employee will serve as the product owner
-- [ ] There will be no planning or reporting requirements that run counter to agile (i.e., there are no dates by which specific tasks are to be completed and no specifications of exact functionality that will be required — whether in the RFP, the acquisition plan, or legislation)
-- [ ] There will be a government-employed software developer who will ensure compliance with the QASP at the end of each sprint
-- [ ] People providing oversight, above the level of the government product owner, are willing to primarily receive "reports" in the form of demonstrations of functioning software and burn down charts, combined with a review of user stories that have been completed and those that remain to be completed
-- [ ] There is an identified person within the agency who is prepared to provide repeated explanations of progress to each level of oversight, because artifacts of measuring progress on an agile project are unfamiliar to people accustomed to waterfall projects
+- An empowered, dedicated government employee will serve as the product owner
+- There will be no planning or reporting requirements that run counter to agile (i.e., there are no dates by which specific tasks are to be completed and no specifications of exact functionality that will be required — whether in the RFP, the acquisition plan, or legislation)
+- There will be a government-employed software developer who will ensure compliance with the QASP at the end of each sprint
+- People providing oversight, above the level of the government product owner, are willing to primarily receive "reports" in the form of demonstrations of functioning software and burn down charts, combined with a review of user stories that have been completed and those that remain to be completed
+- There is an identified person within the agency who is prepared to provide repeated explanations of progress to each level of oversight, because artifacts of measuring progress on an agile project are unfamiliar to people accustomed to waterfall projects
 
 ## Key questions
 

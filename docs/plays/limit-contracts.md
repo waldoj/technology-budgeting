@@ -10,10 +10,10 @@ As the number of people who work on a project increases, so does the amount of t
 
 ## Checklist
 
-- [ ] If the project will require multiple contracts, the scope of the first contract has been identified, and there is a general idea of what some other contracts may be comprised of
-- [ ] If there will be more than one development team, service-oriented architecture (SOA) will be employed
-- [ ] When possible, contracts will be sized within the simplified procurement threshold so they can be awarded quickly and easily
-- [ ] The identified first project has relatively low technical complexity, low political risk, and high end-user value, so that teams can start practicing working this way while experimenting and learning in a relatively low-risk environment
+- If the project will require multiple contracts, the scope of the first contract has been identified, and there is a general idea of what some other contracts may be comprised of
+- If there will be more than one development team, service-oriented architecture (SOA) will be employed
+- When possible, contracts will be sized within the simplified procurement threshold so they can be awarded quickly and easily
+- The identified first project has relatively low technical complexity, low political risk, and high end-user value, so that teams can start practicing working this way while experimenting and learning in a relatively low-risk environment
 
 ## Key questions
 

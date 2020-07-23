@@ -12,9 +12,9 @@ Technical knowledge is cheap and abundant, but knowing how to run a state agency
 
 ## Checklist
 
-- [ ] The project has a dedicated, empowered product owner who is an employee of the mission agency — not a contractor, and not an employee of the state’s IT agency
-- [ ] Stakeholders recognize that the existing approach (waterfall development) fails the majority of the time, and that moving to agile development and modular procurement is, in fact, significantly less risky
-- [ ] Stakeholders regard outside vendors as interchangeable tools to accomplish a goal, rather than as the "owners" of a project or its outcome
+- The project has a dedicated, empowered product owner who is an employee of the mission agency — not a contractor, and not an employee of the state’s IT agency
+- Stakeholders recognize that the existing approach (waterfall development) fails the majority of the time, and that moving to agile development and modular procurement is, in fact, significantly less risky
+- Stakeholders regard outside vendors as interchangeable tools to accomplish a goal, rather than as the "owners" of a project or its outcome
 
 ## Key questions
 

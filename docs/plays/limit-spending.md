@@ -4,7 +4,7 @@ The greater the amount of money spent on a software project, the greater the odd
 
 ## Checklist
 
-- [ ] The requesting agency understands they’re not being given a small percentage of the resources they believe they need — instead, they’re being given an entirely new process to procure software, as well as adequate funding under that model
+- The requesting agency understands they’re not being given a small percentage of the resources they believe they need — instead, they’re being given an entirely new process to procure software, as well as adequate funding under that model
 
 ## Key questions
 
