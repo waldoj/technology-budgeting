@@ -37,3 +37,4 @@ nav:
 - "Appendix B: Sample Quality Assessment Surveillance Plan": appendix-b.md
 
 theme: readthedocs
+extra_css: custom.css
