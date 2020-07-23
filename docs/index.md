@@ -4,7 +4,7 @@
 
 August 5, 2019
 
-By Robin Carnahan, [Randy Hart](mailto:randy.hart@gsa.gov), and Waldo Jaquith
+By [Robin Carnahan](mailto:robin.carnahan@georgetown.edu), [Randy Hart](mailto:randy.hart@gsa.gov), and [Waldo Jaquith](mailto:robin.carnahan@georgetown.edu)
 
 18F, Technology Transformation Service, General Services Administration
 
