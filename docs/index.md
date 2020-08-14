@@ -9,7 +9,7 @@ By [Robin Carnahan](mailto:robin.carnahan@georgetown.edu), [Randy Hart](mailto:r
 18F, Technology Transformation Service, General Services Administration
 
 
-_Note: This is a lightly updated version of [the original document](https://github.com/18F/technology-budgeting/blob/master/handbook.md), which was created by 18F._
+_Note: This is a lightly updated version of [the original document](https://github.com/18F/technology-budgeting/blob/master/handbook.md), which was created by 18F. [This document is also available in Czech](https://www.profant.eu/2020/prirucka-rizeni-statnich-it-projektu.html), as “Příručka řízení státních IT projektů.”_ 
 
 ## Introduction
 
