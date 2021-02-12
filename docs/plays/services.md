@@ -12,7 +12,7 @@ Historically, there has been pressure to only use firm fixed price contracts, on
 
 ## Checklist
 
-- [] The project has a dedicated, empowered product owner who is an employee of the agency — not a contractor, and not an employee of the state’s IT agency — whose job it is to prioritize work for the development team
+- The project has a dedicated, empowered product owner who is an employee of the agency — not a contractor, and not an employee of the state’s IT agency — whose job it is to prioritize work for the development team
 - An agency contracting officer has embraced this project, and is enthusiastic about procuring software in new ways
 - The RFP will be solely about procuring development services, not about procuring a tangible thing
 - The RFP will require a cross-functional team of designers, user researchers, and developers
