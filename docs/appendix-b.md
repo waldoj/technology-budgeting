@@ -1,6 +1,6 @@
 ## Appendix B: Sample Quality Assessment Surveillance Plan (QASP)
 
-Per [the "Require demos, not memos" best practice](#require-demos-not-memos), here is a sample QASP, which should be incorporated into agile software RFPs.
+Per [the "Require demos, not memos" best practice](https://agilebudgeting.org/plays/demos/), here is a sample QASP, which should be incorporated into agile software RFPs.
 
 | **Deliverable** | **Performance Standard(s)** | **Acceptable Quality Level** | **Method of Assessment** |
 | --- | --- | --- | --- |
